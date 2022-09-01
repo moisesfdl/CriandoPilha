@@ -6,7 +6,7 @@
 using namespace std;
 int main(int argc, char** argv)
 {
-	long pilha;long bytes;int valor = '$';
+	long pilha;long bytes;unsigned valor = '$';
 	bytes = valor;
 	if(pilha >= 0)
 	{
